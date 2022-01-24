@@ -1,0 +1,21 @@
+#pomodoro{
+    background-color: #191A19;
+    color: #D8E9A8;
+    width: 200px;
+    height: 70px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    border-radius: 15px;
+}
+
+.contador_trabajo{
+    background-color: #072227 !important;
+    color: #4FBDBA !important;
+}
+
+.contador_descanso{
+    background-color: #FF0000 !important;
+    color: #000000 !important;
+}
